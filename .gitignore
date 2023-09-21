@@ -1,3 +1,6 @@
 *.zip
 wandb/
 ap-sweeps/
+bert-*/
+distilgpt2-*/
+roberta-*/
